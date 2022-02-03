@@ -13,12 +13,12 @@ MIN_RADIUS = 0
 MAX_RADIUS = 150
 
 # Constantes de conexión
-URL_CAM = "http://192.168.173.129:8080/shot.jpg"
-BLUETOOTH_PORT = 'COM4'
+URL_CAM = "http://192.168.0.100:8080/shot.jpg"
+BLUETOOTH_PORT = 'COM5'
 
 # Constantes de resolución de la cámara
-CAPTURE_WIDTH = 666 * 2.5
-CAPTURE_HEIGHT = 375 * 2.5
+CAPTURE_WIDTH = 666
+CAPTURE_HEIGHT = 375
 
 # Constante de visualizción
 WINDOW_NAME = "Cámara Android"
